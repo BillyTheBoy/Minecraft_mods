@@ -24,6 +24,7 @@ public class TutorialMod
 
     public TutorialMod(FMLJavaModLoadingContext context)
     {
+
         IEventBus modEventBus = context.getModEventBus();
 
         // Register the commonSetup method for modloading
