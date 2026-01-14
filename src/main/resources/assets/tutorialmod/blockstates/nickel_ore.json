@@ -1,7 +1,7 @@
 {
   "variants" : {
     "": {
-      "model" : "tutorialmod:block/nickel_ore"
+      "model" : "mecamyth:block/nickel_ore"
     }
   }
 }

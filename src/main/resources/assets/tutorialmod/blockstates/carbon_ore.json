@@ -1,7 +1,7 @@
 {
   "variants" : {
     "": {
-      "model" : "tutorialmod:block/cadmium_ore"
+      "model" : "mecamyth:block/cadmium_ore"
     }
   }
 }

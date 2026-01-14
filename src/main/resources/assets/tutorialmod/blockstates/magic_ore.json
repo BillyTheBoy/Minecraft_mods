@@ -1,7 +1,7 @@
 {
   "variants" : {
     "": {
-      "model" : "tutorialmod:block/magic_ore"
+      "model" : "mecamyth:block/magic_ore"
     }
   }
 }

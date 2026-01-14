@@ -1,7 +1,7 @@
 {
   "variants" : {
     "": {
-      "model" : "tutorialmod:block/raw_sapphire_block"
+      "model" : "mecamyth:block/raw_sapphire_block"
     }
   }
 }

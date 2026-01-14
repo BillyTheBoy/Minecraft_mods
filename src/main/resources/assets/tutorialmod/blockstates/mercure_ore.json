@@ -1,7 +1,7 @@
 {
   "variants" : {
     "": {
-      "model" : "tutorialmod:block/mercure_ore"
+      "model" : "mecamyth:block/mercure_ore"
     }
   }
 }

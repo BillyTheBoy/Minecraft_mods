@@ -1,7 +1,7 @@
 {
   "variants" : {
     "": {
-      "model" : "tutorialmod:block/carbon_ore"
+      "model" : "mecamyth:block/carbon_ore"
     }
   }
 }

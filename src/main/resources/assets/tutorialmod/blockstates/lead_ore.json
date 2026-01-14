@@ -1,7 +1,7 @@
 {
   "variants" : {
     "": {
-      "model" : "tutorialmod:block/lead_ore"
+      "model" : "mecamyth:block/lead_ore"
     }
   }
 }

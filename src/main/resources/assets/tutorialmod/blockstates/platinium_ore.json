@@ -1,7 +1,7 @@
 {
   "variants" : {
     "": {
-      "model" : "tutorialmod:block/platinium_ore"
+      "model" : "mecamyth:block/platinium_ore"
     }
   }
 }

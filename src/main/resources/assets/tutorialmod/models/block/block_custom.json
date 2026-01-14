@@ -4,8 +4,8 @@
 	"parent": "minecraft:block/cube_all",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "tutorialmod:block/block_custom",
-		"particle": "tutorialmod:block/block_custom"
+		"0": "mecamyth:block/block_custom",
+		"particle": "mecamyth:block/block_custom"
 	},
 	"elements": [
 		{

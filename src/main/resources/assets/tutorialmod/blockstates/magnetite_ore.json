@@ -1,7 +1,7 @@
 {
   "variants" : {
     "": {
-      "model" : "tutorialmod:block/magnetite_ore"
+      "model" : "mecamyth:block/magnetite_ore"
     }
   }
 }
