@@ -4,11 +4,33 @@
 
   "creativetab.tutorial_tab" : "Sapphire Tutorial Tab",
 
-  "block.tutorialmod.sapphire_block" : "Block of Sapphire",
+
   "block.tutorialmod.block_custom" : "Block Custom",
+
+  "block.tutorialmod.sapphire_block" : "Block of Sapphire",
+
+
   "block.tutorialmod.sapphire_ore" : "Sapphire Ore",
-  "block.tutorialmod.raw_sapphire_block" : "Block of Raw Sapphire",
+  "block.tutorialmod.cadmium" : "Cadmium Ore",
+  "block.tutorialmod.carbon_ore" : "Carbon Ore",
+  "block.tutorialmod.findium_ore" : "Findium Ore",
+  "block.tutorialmod.lead_ore" : "Lead Ore",
+  "block.tutorialmod.magic_ore" : "Magic Ore",
+  "block.tutorialmod.magnetite_ore" : "Magnetite Ore",
+  "block.tutorialmod.mercure_ore" : "Mercure Ore",
+  "block.tutorialmod.nickel_ore" : "Nickel Ore",
+  "block.tutorialmod.platinium_ore" : "Platinium Ore",
+  "block.tutorialmod.shiny_ore" : "Shiny Ore",
+  "block.tutorialmod.silver_ore" : "Silver Ore",
+  "block.tutorialmod.tin_ore" : "Tin Ore",
+  "block.tutorialmod.uranium_ore" : "Uranium Ore",
+
   "block.tutorialmod.deepslate_sapphire_ore" : "Block of Deepslate Sapphire Ore",
+
+
   "block.tutorialmod.end_stone_sapphire_ore" : "Block of End Stone Sapphire Ore",
+
+  "block.tutorialmod.raw_sapphire_block" : "Block of Raw Sapphire",
+
   "block.tutorialmod.nether_sapphire_ore" : "Block of Nether Sapphire Ore"
 }
