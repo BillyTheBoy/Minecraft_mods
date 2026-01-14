@@ -1,7 +1,6 @@
 package com.robz.tutorialmod.block;
 
-import com.robz.tutorialmod.TutorialMod;
-import com.robz.tutorialmod.item.ModItems;
+import com.robz.tutorialmod.MecaMyth;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
@@ -10,7 +9,6 @@ import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.DropExperienceBlock;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
-import net.minecraft.world.phys.shapes.VoxelShape;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -27,7 +25,7 @@ public class ModBlocks {
      * Creation de "l'enregistreur de bloc"
      */
     public static final DeferredRegister<Block> BLOCKS =
-            DeferredRegister.create(ForgeRegistries.BLOCKS, TutorialMod.MOD_ID);
+            DeferredRegister.create(ForgeRegistries.BLOCKS, MecaMyth.MOD_ID);
 
     /**
      * Exemple de création d'un bloc de Saphir

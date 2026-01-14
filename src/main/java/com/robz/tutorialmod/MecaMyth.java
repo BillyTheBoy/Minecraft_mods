@@ -4,10 +4,8 @@ import com.mojang.logging.LogUtils;
 import com.robz.tutorialmod.block.ModBlocks;
 import com.robz.tutorialmod.item.ModCreativeModTabs;
 import com.robz.tutorialmod.item.ModItems;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
-import net.minecraftforge.common.CreativeModeTabRegistry;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
 import net.minecraftforge.event.server.ServerStartingEvent;
@@ -20,15 +18,15 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod(TutorialMod.MOD_ID)
-public class TutorialMod
+@Mod(MecaMyth.MOD_ID)
+public class MecaMyth
 {
     // Define mod id in a common place for everything to reference
-    public static final String MOD_ID = "tutorialmod";
+    public static final String MOD_ID = "mecamyth";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
-    public TutorialMod(FMLJavaModLoadingContext context)
+    public MecaMyth(FMLJavaModLoadingContext context)
     {
 
         IEventBus modEventBus = context.getModEventBus();

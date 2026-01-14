@@ -1,6 +1,6 @@
 package com.robz.tutorialmod.item;
 
-import com.robz.tutorialmod.TutorialMod;
+import com.robz.tutorialmod.MecaMyth;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -12,7 +12,7 @@ public class ModItems {
      * Creation de "l'enregistreur d'items"
      */
     public static final DeferredRegister<Item> ITEMS =
-            DeferredRegister.create(ForgeRegistries.ITEMS, TutorialMod.MOD_ID);
+            DeferredRegister.create(ForgeRegistries.ITEMS, MecaMyth.MOD_ID);
 
     /**
      * Creation d'un Item Saphir

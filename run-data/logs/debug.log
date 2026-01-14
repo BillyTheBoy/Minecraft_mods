@@ -330,7 +330,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14janv.2026 19:49:35.098] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@4a901445 - got cpw.mods.cl.ModuleClassLoader@67ec8477
 [14janv.2026 19:49:35.099] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for net.minecraftforge.common.ForgeMod
 [14janv.2026 19:49:35.104] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@4a901445 - got cpw.mods.cl.ModuleClassLoader@67ec8477
-[14janv.2026 19:49:35.104] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for com.robz.tutorialmod.TutorialMod
+[14janv.2026 19:49:35.104] [main/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for com.robz.tutorialmod.MecaMyth
 [14janv.2026 19:49:35.131] [modloading-worker-0/DEBUG] [net.minecraftforge.versions.forge.ForgeVersion/CORE]: Forge Version package package net.minecraftforge.versions.forge, Forge, version 47.4 from cpw.mods.modlauncher.TransformingClassLoader@4a901445
 [14janv.2026 19:49:35.132] [modloading-worker-0/DEBUG] [net.minecraftforge.versions.forge.ForgeVersion/CORE]: Found Forge version 47.4.13
 [14janv.2026 19:49:35.132] [modloading-worker-0/DEBUG] [net.minecraftforge.versions.forge.ForgeVersion/CORE]: Found Forge spec 47.4
@@ -341,7 +341,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14janv.2026 19:49:35.133] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.13, for MC 1.20.1 with MCP 20230612.114412
 [14janv.2026 19:49:35.138] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.13 Initialized
 [14janv.2026 19:49:35.150] [modloading-worker-0/DEBUG] [net.minecraftforge.fml.javafmlmod.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for tutorialmod
-[14janv.2026 19:49:35.154] [modloading-worker-0/DEBUG] [net.minecraftforge.fml.javafmlmod.AutomaticEventSubscriber/LOADING]: Auto-subscribing com.robz.tutorialmod.TutorialMod$ClientModEvents to MOD
+[14janv.2026 19:49:35.154] [modloading-worker-0/DEBUG] [net.minecraftforge.fml.javafmlmod.AutomaticEventSubscriber/LOADING]: Auto-subscribing com.robz.tutorialmod.MecaMyth$ClientModEvents to MOD
 [14janv.2026 19:49:35.199] [modloading-worker-0/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file forge-client.toml for forge tracking
 [14janv.2026 19:49:35.199] [modloading-worker-0/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file forge-server.toml for forge tracking
 [14janv.2026 19:49:35.200] [modloading-worker-0/DEBUG] [net.minecraftforge.fml.ModLoadingContext/]: Attempted to register an empty config for type COMMON on mod forge
