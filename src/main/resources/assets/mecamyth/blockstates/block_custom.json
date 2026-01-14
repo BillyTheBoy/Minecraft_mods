@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "": {
+      "model" : "mecamyth:block/block_custom"
+    }
+  }
+}

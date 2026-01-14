@@ -1,0 +1,24 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_all",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "mecamyth:block/block_custom",
+		"particle": "mecamyth:block/block_custom"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 6, 14],
+			"faces": {
+				"north": {"uv": [4, 0, 8, 2.5], "texture": "#0"},
+				"east":  {"uv": [4, 2.5, 8, 5], "texture": "#0"},
+				"south": {"uv": [4, 5, 8, 7.5], "texture": "#0"},
+				"west":  {"uv": [4, 7.5, 8, 10], "texture": "#0"},
+				"up":    {"uv": [4, 4, 0, 0], "texture": "#0"},
+				"down":  {"uv": [4, 4, 0, 8], "texture": "#0"}
+			}
+		}
+	]
+}
