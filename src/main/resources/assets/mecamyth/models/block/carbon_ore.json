@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "mecamyth:block/carbon_ore"
+    "all": "mecamyth:block/carbon_ore"
   }
 }
