@@ -1,5 +1,5 @@
 {
-  "parent": "item/generated",
+  "parent": "parent" : "minecraft:block/cube_all",
   "textures": {
     "all": "mecamyth:block/magic_ore"
   }
