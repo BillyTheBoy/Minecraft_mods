@@ -1,9 +1,10 @@
 {
-  "item.mecamyth.sapphire" : "Sapphire",
-  "item.mecamyth.raw_sapphire" : "Raw Sapphire",
 
   "creativetab.mecamyth" : "Mekamyth Tab",
 
+
+  "item.mecamyth.sapphire" : "Sapphire",
+  "item.mecamyth.raw_sapphire" : "Raw Sapphire",
 
   "block.mecamyth.block_custom" : "Block Custom",
 
