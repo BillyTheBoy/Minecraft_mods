@@ -41,7 +41,7 @@ public class ModBlocks {
             ()-> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE)
                     .strength(2f).requiresCorrectToolForDrops(), UniformInt.of(3,6)));
 
-    public static final RegistryObject<Block> CARBON_ORE = registerBlock("carbone_ore",
+    public static final RegistryObject<Block> CARBON_ORE = registerBlock("carbon_ore",
             ()-> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE)
                     .strength(2f).requiresCorrectToolForDrops(), UniformInt.of(3,6)));
     public static final RegistryObject<Block> FINDIUM_ORE = registerBlock("findium_ore",
