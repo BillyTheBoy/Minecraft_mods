@@ -31,6 +31,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.END_STONE_SAPPHIRE_ORE.get());
                         pOutput.accept(ModBlocks.NETHER_SAPPHIRE_ORE.get());
                         pOutput.accept(ModBlocks.SAPPHIRE_ORE.get());
+                        pOutput.accept(ModBlocks.CADMIUM_ORE.get());
                         pOutput.accept(ModBlocks.CARBON_ORE.get());
                         pOutput.accept(ModBlocks.FINDIUM_ORE.get());
                         pOutput.accept(ModBlocks.PLATINIUM_ORE.get());
