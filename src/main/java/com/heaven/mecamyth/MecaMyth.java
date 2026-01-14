@@ -1,9 +1,9 @@
-package com.robz.tutorialmod;
+package com.heaven.mecamyth;
 
 import com.mojang.logging.LogUtils;
-import com.robz.tutorialmod.block.ModBlocks;
-import com.robz.tutorialmod.item.ModCreativeModTabs;
-import com.robz.tutorialmod.item.ModItems;
+import com.heaven.mecamyth.block.ModBlocks;
+import com.heaven.mecamyth.item.ModCreativeModTabs;
+import com.heaven.mecamyth.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;

@@ -1,7 +1,7 @@
-package com.robz.tutorialmod.item;
+package com.heaven.mecamyth.item;
 
-import com.robz.tutorialmod.MecaMyth;
-import com.robz.tutorialmod.block.ModBlocks;
+import com.heaven.mecamyth.MecaMyth;
+import com.heaven.mecamyth.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -17,7 +17,7 @@ public class ModCreativeModTabs {
 
     public static final RegistryObject<CreativeModeTab> TUTORIAL_TAB = CREATIVE_MOD_TABS.register("tutorial_tab",
             ()-> CreativeModeTab.builder().icon(()-> new ItemStack(ModItems.SAPPHIRE.get()))
-                    .title(Component.translatable("creativetab.tutorial_tab"))
+                    .title(Component.translatable("creativetab.mecamyth"))
                     .displayItems((pParameters,pOutput)->{
                         pOutput.accept(ModItems.SAPPHIRE.get());
                         pOutput.accept(ModItems.RAW_SAPPHIRE.get());

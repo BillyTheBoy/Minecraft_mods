@@ -1,6 +1,6 @@
-package com.robz.tutorialmod.block;
+package com.heaven.mecamyth.block;
 
-import com.robz.tutorialmod.MecaMyth;
+import com.heaven.mecamyth.MecaMyth;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
@@ -16,7 +16,7 @@ import net.minecraftforge.registries.RegistryObject;
 
 import java.util.function.Supplier;
 
-import static com.robz.tutorialmod.item.ModItems.ITEMS;
+import static com.heaven.mecamyth.item.ModItems.ITEMS;
 
 public class ModBlocks {
 

@@ -1,6 +1,6 @@
-package com.robz.tutorialmod.item;
+package com.heaven.mecamyth.item;
 
-import com.robz.tutorialmod.MecaMyth;
+import com.heaven.mecamyth.MecaMyth;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;

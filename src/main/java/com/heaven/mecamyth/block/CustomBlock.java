@@ -1,4 +1,4 @@
-package com.robz.tutorialmod.block;
+package com.heaven.mecamyth.block;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.BlockGetter;
