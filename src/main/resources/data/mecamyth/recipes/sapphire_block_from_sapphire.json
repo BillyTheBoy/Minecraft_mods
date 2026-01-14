@@ -8,10 +8,10 @@
   ],
   "key" : {
     "#" : {
-      "item" : "tutorialmod:sapphire"
+      "item" : "mecamyth:sapphire"
     }
   },
   "result" : {
-    "item" : "tutorialmod:sapphire_block"
+    "item" : "mecamyth:sapphire_block"
   }
 }

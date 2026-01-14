@@ -5,7 +5,7 @@
   "experience": 0.7,
   "group": "sapphire",
   "ingredient": {
-    "item": "tutorialmod:raw_sapphire"
+    "item": "mecamyth:raw_sapphire"
   },
-  "result": "tutorialmod:sapphire"
+  "result": "mecamyth:sapphire"
 }
