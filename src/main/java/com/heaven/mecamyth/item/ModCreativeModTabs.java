@@ -15,7 +15,7 @@ public class ModCreativeModTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MOD_TABS =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MecaMyth.MOD_ID);
 
-    public static final RegistryObject<CreativeModeTab> TUTORIAL_TAB = CREATIVE_MOD_TABS.register("tutorial_tab",
+    public static final RegistryObject<CreativeModeTab> TUTORIAL_TAB = CREATIVE_MOD_TABS.register("mods_tab",
             ()-> CreativeModeTab.builder().icon(()-> new ItemStack(ModItems.SAPPHIRE.get()))
                     .title(Component.translatable("creativetab.mecamyth"))
                     .displayItems((pParameters,pOutput)->{
@@ -31,6 +31,17 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.END_STONE_SAPPHIRE_ORE.get());
                         pOutput.accept(ModBlocks.NETHER_SAPPHIRE_ORE.get());
                         pOutput.accept(ModBlocks.SAPPHIRE_ORE.get());
+                        pOutput.accept(ModBlocks.CARBON_ORE.get());
+                        pOutput.accept(ModBlocks.FINDIUM_ORE.get());
+                        pOutput.accept(ModBlocks.PLATINIUM_ORE.get());
+                        pOutput.accept(ModBlocks.LEAD_ORE.get());
+                        pOutput.accept(ModBlocks.MAGIC_ORE.get());
+                        pOutput.accept(ModBlocks.MAGNETITE_ORE.get());
+                        pOutput.accept(ModBlocks.NICKEL_ORE.get());
+                        pOutput.accept(ModBlocks.SHINY_ORE.get());
+                        pOutput.accept(ModBlocks.SILVER_ORE.get());
+                        pOutput.accept(ModBlocks.TIN_ORE.get());
+                        pOutput.accept(ModBlocks.URANIUM_ORE.get());
 
                     })
                     .build());
