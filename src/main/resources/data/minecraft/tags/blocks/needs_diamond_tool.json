@@ -1,7 +1,7 @@
 {
   "values"  : [
-    "tutorialmod:raw_sapphire_block",
-    "tutorialmod:deepslate_sapphire_ore",
-    "tutorialmod:end_stone_sapphire_ore"
+    "mecamyth:raw_sapphire_block",
+    "mecamyth:deepslate_sapphire_ore",
+    "mecamyth:end_stone_sapphire_ore"
   ]
 }
